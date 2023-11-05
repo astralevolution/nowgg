@@ -10,5 +10,5 @@
 git clone https://github.com/astralevolution/nowgg
 cd nowgg
 npm install
-npm start
+node .
 ```
